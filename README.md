@@ -10,7 +10,7 @@ A lightweight Layer 7 HTTP load balancer built with **TypeScript** and **Node.js
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Null-logic-0/loadBalancer
 cd ts-load-balancer
 npm install
 ```
